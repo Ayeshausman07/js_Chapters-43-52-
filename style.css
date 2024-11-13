@@ -1,0 +1,138 @@
+/* table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  button {
+    padding: 5px 10px;
+    color: white;
+    background-color: red;
+    border: none;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: darkred;
+  } */
+
+  /* body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f2f2f2;
+}
+.container {
+    width: 300px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+.container input {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.container button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.container button:hover {
+    background-color: #45a049;
+}
+.result {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #e7f3fe;
+    border: 1px solid #b3d8ff;
+    border-radius: 4px;
+} */
+
+/* .content-area {
+  width: 300px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  margin: 20px auto;
+  font-family: Arial, sans-serif;
+}
+.summary {
+  color: #333;
+}
+.more-text {
+  display: none; 
+  color: #555;
+}
+.read-more-btn {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.read-more-btn:hover {
+  background-color: #0056b3;
+} */
+
+/* body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+}
+form, table {
+  margin: 20px 0;
+}
+table {
+  width: 80%;
+  border-collapse: collapse;
+}
+table, th, td {
+  border: 1px solid #ddd;
+}
+th, td {
+  padding: 10px;
+  text-align: center;
+}
+th {
+  background-color: #f2f2f2;
+}
+.hidden-form {
+  display: none;
+  margin-top: 20px;
+}
+button {
+  padding: 5px 10px;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+}
+.edit-btn {
+  background-color: #007bff;
+  color: white;
+}
+.delete-btn {
+  background-color: #d9534f;
+  color: white;
+}
+.save-btn {
+  background-color: #5cb85c;
+  color: white;
+} */
